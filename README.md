@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+Description
+```bash
+React App Tiktakto
+```
+Prerequisites
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+``` bash
+This summarizes the use of basic react hooks (useEffect,useRef and useState) in building simple game algorithms
 
-## Available Scripts
+```
 
-In the project directory, you can run:
 
-### `npm start`
+React Hook
+```bash
+Hooks were first introduced in React 16.8. And they're great because they let you use more of React's features – like managing your component's state, or performing an after effect when certain changes occur in state(s) without writing a class.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The state of your application is bound to change at some point. This could be the value of a variable, an object, or whatever type of data exists in your component.
 
-### `npm test`
+To make it possible to have the changes reflected in the DOM, we have to use a React hook called useState. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Conclusion
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+If you have gone through the code on this repo, then you should have a good understanding of what hooks are in React, how to use them, and how to create your own custom Hooks. And the best way to fully understand this is to practice so don't just read through.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This code covers the core areas of hooks, but it won't teach you all there is to know about hooks. So make sure you check out the React JS documentation so you can learn more about them.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Developer
+```bash
+ASOTIBE PRINCEWILL ONYEMAECHI
+princewillasotibe123@gmail.com
+```
